@@ -1,2 +1,4 @@
-# lpr
-under construction
+# License plate RECOGINTION USING OPEN CV
+
+
+
